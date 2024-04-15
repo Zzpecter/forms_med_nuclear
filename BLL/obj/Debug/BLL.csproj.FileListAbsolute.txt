@@ -1,0 +1,12 @@
+F:\VS Projects\LaboratorioMedNuclear\BLL\bin\Debug\BLL.dll
+F:\VS Projects\LaboratorioMedNuclear\BLL\bin\Debug\BLL.pdb
+F:\VS Projects\LaboratorioMedNuclear\BLL\bin\Debug\DAL.dll
+F:\VS Projects\LaboratorioMedNuclear\BLL\bin\Debug\Net.SourceForge.Koogra.dll
+F:\VS Projects\LaboratorioMedNuclear\BLL\bin\Debug\Ionic.Utils.Zip.dll
+F:\VS Projects\LaboratorioMedNuclear\BLL\bin\Debug\DAL.pdb
+F:\VS Projects\LaboratorioMedNuclear\BLL\bin\Debug\Net.SourceForge.Koogra.xml
+F:\VS Projects\LaboratorioMedNuclear\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\VS Projects\LaboratorioMedNuclear\BLL\obj\Debug\BLL.dll
+F:\VS Projects\LaboratorioMedNuclear\BLL\obj\Debug\BLL.pdb
+F:\VS Projects\LaboratorioMedNuclear\BLL\bin\Debug\ClosedXML.dll
+F:\VS Projects\LaboratorioMedNuclear\BLL\bin\Debug\ClosedXML.xml
